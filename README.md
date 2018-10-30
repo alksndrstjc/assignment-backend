@@ -15,6 +15,8 @@ The method calculates all of the desired output (purchase value, discount rate, 
 
 flow illustration:
 create a 'blank' card with an actual type for a user (constructor makes a call to a method which determines initial discount rate 
-in the background) - >
-(optional) set the cards previous month turnover (it recalculates the discount rate in the background) -
+in the background) 
+->
+(optional) set the cards previous month turnover (it recalculates the discount rate in the background) 
+->
 'purchase', that is calculate all the output and print it out.
